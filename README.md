@@ -1,4 +1,4 @@
 # Web-Scraping
 Web scraping Trump lies from Nytimes, WP, Politifact using Beautiful soup
-These notebooks scrape the html of artciles about Trump lies from websites like Nytimes, Washington Post, Politifact.
-Using Python and Beautiful soup, the scraped html can be save to a csv file using pandas.
+Using Python and Beautiful soup, these  notebooks scrape the html of articles about Trump lies from websites like Nytimes, Washington Post, Politifact and saves the content to a csv file. 
+
